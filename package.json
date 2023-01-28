@@ -1,0 +1,8 @@
+{
+  "name": "webinit-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AgrPaavan/webinit.git",
+  "author": "Paavan Agrawal <33314332+AgrPaavan@users.noreply.github.com>",
+  "license": "MIT"
+}
